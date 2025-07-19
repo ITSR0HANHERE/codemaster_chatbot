@@ -20,7 +20,7 @@ Here's a glimpse of the CodeMaster chatbot in action:
 ![Answering a general question about Machine Learning](code_master_ss.png)
 
 **Detailing specific techniques within Deep Learning:**
-![Detailing specific techniques within Deep Learning](brave_screenshot_localhost.png)
+![Detailing specific techniques within Deep Learning](code_masterss2.png)
 
 ---
 
