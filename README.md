@@ -17,7 +17,7 @@ Welcome to CodeMaster, a powerful and interactive AI-powered chatbot designed to
 Here's a glimpse of the CodeMaster chatbot in action:
 
 **Answering a general question about Machine Learning:**
-![Answering a general question about Machine Learning](code_master_ss.png)
+![Answering a general question about Machine Learning](code_masterss.png)
 
 **Detailing specific techniques within Deep Learning:**
 ![Detailing specific techniques within Deep Learning](code_masterss2.png)
